@@ -9,7 +9,7 @@ I’m interested in **Software Developer (SDE) roles** and this repo highlights 
 
 | Project Name | Description | Tech Stack | Link |
 |--------------|-------------|------------|------|
-| **Health on Hands** | Hybrid ML + Lexicon approach to classify customer reviews | Python, Sklearn, NLTK, Flask | [View Repo](https://github.com/your-username/sentiment-analysis) |
+| **Health on Hands** | Hybrid ML + Lexicon approach to classify customer reviews | Python, Sklearn, NLTK, Flask | [View Repo](https:https://github.com/suryanellutla555/Health-on-Hands-Hospital-Doctor-Appointment-Booking-System) |
 | **
 
 

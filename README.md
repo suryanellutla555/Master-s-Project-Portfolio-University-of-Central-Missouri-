@@ -5,6 +5,13 @@ I’m pursuing my Master’s in Computer Science at the **University of Central 
 I’m interested in **Software Developer (SDE) roles** and this repo highlights a few of my graduate projects.
 
 ---
+## Project Index
+
+| Project Name | Description | Tech Stack | Link |
+|--------------|-------------|------------|------|
+| **Health on Hands** | Hybrid ML + Lexicon approach to classify customer reviews | Python, Sklearn, NLTK, Flask | [View Repo](https://github.com/your-username/sentiment-analysis) |
+| **
+
 
 ## Projects
 
@@ -16,7 +23,7 @@ Tech: PHP, MySQL, HTML, CSS, Bootstrap
 - Prescription and vaccination tracking with online payments  
 - Improved scheduling efficiency for both doctors and patients  
 
-👉 [Source Code](./Health-On-Hands)
+[Source Code](./Health-On-Hands)
 
 ---
 

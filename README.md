@@ -14,7 +14,7 @@ This repository showcases my **graduate-level academic and practical projects**,
 | Project Name | Description | Tech Stack | Link |
 |--------------|------------|------------|------|
 | **Health on Hands** | Hospital appointment & management system | PHP, MySQL, HTML, CSS, Bootstrap | [View Repo](https://github.com/suryanellutla555/Health-on-Hands-Hospital-Doctor-Appointment-Booking-System) |
-| **Anime Recommendation System** | ML-based recommendation engine using user preferences | Python, Pandas, Scikit-learn | [View Repo](./Anime-Recommendation-System) |
+| **Anime Recommendation System** | ML-based recommendation engine using user preferences | Python, Pandas, Scikit-learn | [View Repo](https://github.com/suryanellutla555/Anime-Recommendation-System) |
 | **Java Spring Application** | Enterprise-style backend application | Java, Spring Boot, REST APIs, MySQL | [View Repo](./Java-Spring-Project) |
 
 ---

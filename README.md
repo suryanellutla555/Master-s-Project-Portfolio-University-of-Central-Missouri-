@@ -19,7 +19,7 @@ This repository showcases my **graduate-level academic and practical projects**,
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ---
 
